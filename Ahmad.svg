@@ -1,0 +1,7 @@
+<svg width="600" height="140" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="140" fill="black"/>
+  <text x="50%" y="50%" font-size="72" fill="#31f26d" font-family="Courier New, monospace"
+        dominant-baseline="middle" text-anchor="middle">
+    Ahmad
+  </text>
+</svg>
