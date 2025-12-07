@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ahmad Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p align="center">
+  <img src="https://gh-art.vercel.app/api?text=Ahmad&font=pixel&color=2fff78" alt="Ahmad"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedahmadali707&label=Profile%20views&color=0e75b6&style=flat" alt="syedahmadali707" /> </p>
 
